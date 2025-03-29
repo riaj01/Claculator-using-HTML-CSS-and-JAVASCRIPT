@@ -1,0 +1,20 @@
+.center{
+    text-align: center;
+}
+.bg-red{
+    background: red;
+
+}
+.mx-auto{
+    margin: auto;
+}
+.felx-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.container{
+    background-color: black;
+    width: fit-content;
+}
